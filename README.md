@@ -1,4 +1,5 @@
-# IMDb Movie Review Sentiment Analysis ( MIC CLUB )
+# IMDb Movie Review Sentiment Analysis 
+MIC CLUB AI/ML PROJECT - PRODHOSH VS
 
 ## Objective
 Classify IMDb movie reviews as ‘positive’ or ‘negative’ using Logistic Regression (beginner batch).
