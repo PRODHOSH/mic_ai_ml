@@ -62,6 +62,13 @@ graph LR
 
 </div>
 
+
+<div align="center">
+
+## OUTPUT
+![Ouput of the ML model](ouput.png)
+
+
 ## 🎮 Interactive Features
 
 <details>
