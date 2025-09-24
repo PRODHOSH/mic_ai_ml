@@ -66,7 +66,7 @@ graph LR
 <div align="center">
 
 ## OUTPUT
-![Ouput of the ML model](ouput.png)
+![Ouput of the ML model](output.png)
 
 
 ## 🎮 Interactive Features
