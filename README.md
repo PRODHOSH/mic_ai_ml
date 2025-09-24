@@ -1,7 +1,19 @@
 <div align="center">
-🎬✨ IMDb Movie Review Sentiment Analysis ✨🎬
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2336BCF7&center=true&vCenter=true&width=600&lines=MIC+CLUB+AI%2FML+PROJECT;PRODHOSH+VS;Sentiment+Analysis+Master;87%25+Accuracy+Achieved!" /> <p align="center"> <img src="https://img.shields.io/badge/🤖_AI-Powered-FF6B6B?style=for-the-badge&logo=robot&logoColor=white"/> <img src="https://img.shields.io/badge/🧠_ML-Logistic_Regression-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/🎯_Accuracy-87%25-FFE66D?style=for-the-badge&logo=target&logoColor=black"/> <img src="https://img.shields.io/badge/📊_Dataset-50K_Reviews-A8E6CF?style=for-the-badge&logo=databricks&logoColor=black"/> </p> <div align="center">
-text
+
+# 🎬✨ IMDb Movie Review Sentiment Analysis ✨🎬
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2336BCF7&center=true&vCenter=true&width=600&lines=MIC+CLUB+AI%2FML+PROJECT;PRODHOSH+VS;Sentiment+Analysis+Master;87%25+Accuracy+Achieved!" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI-Powered-FF6B6B?style=for-the-badge&logo=robot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🧠_ML-Logistic_Regression-4ECDC4?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎯_Accuracy-87%25-FFE66D?style=for-the-badge&logo=target&logoColor=black"/>
+  <img src="https://img.shields.io/badge/📊_Dataset-50K_Reviews-A8E6CF?style=for-the-badge&logo=databricks&logoColor=black"/>
+</p>
+
+<div align="center">
+
+```ascii
     ╔═══════════════════════════════════════════════════════════════╗
     ║  🎭 SENTIMENT ANALYSIS ENGINE 🎭                              ║
     ║                                                               ║
@@ -10,7 +22,15 @@ text
     ║                                                               ║
     ║  ⚡ POWERED BY: Logistic Regression + CountVectorizer ⚡     ║
     ╚═══════════════════════════════════════════════════════════════╝
-</div> <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"> </div>
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+---
 
 ## 🚀 Mission Control Dashboard
 
@@ -103,6 +123,7 @@ python sentiment_analysis.py
 
 **✨ Built with 💖 by PRODHOSH for MIC Club AI/ML Initiative ✨**
 
+<img src="https://komarev.com/ghpvc/?username=PRODHOSH&label=Profile%20Views&color=brightgreen&style=flat-square" />
 <img src="https://img.shields.io/badge/⭐_If_Helpful-Star_This_Repo-FFD700?style=flat-square"/>
 
 </div>
