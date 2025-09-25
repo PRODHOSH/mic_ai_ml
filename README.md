@@ -15,7 +15,7 @@
 
 ```ascii
     ╔═══════════════════════════════════════════════════════════════╗
-    ║  🎭 SENTIMENT ANALYSIS ENGINE 🎭                              ║
+    ║  🎭 SENTIMENT ANALYSIS ENGINE 🎭                             ║
     ║                                                               ║
     ║     😊 POSITIVE ████████████████████████ 87% ✅              ║
     ║     😞 NEGATIVE ████████████████████████ 87% ✅              ║
@@ -128,7 +128,7 @@ python sentiment_analysis.py
 
 <div align="center">
 
-**✨ Built with 💖 by PRODHOSH for MIC Club AI/ML Initiative ✨**
+**✨ Built with 💖 by PRODHOSH for MIC Club AI/ML Recruitment ✨**
 
 <img src="https://komarev.com/ghpvc/?username=PRODHOSH&label=Profile%20Views&color=brightgreen&style=flat-square" />
 <img src="https://img.shields.io/badge/⭐_If_Helpful-Star_This_Repo-FFD700?style=flat-square"/>
